@@ -1,0 +1,3 @@
+[submodule "src/terminal-base"]
+	path = src/terminal-base
+	url = https://github.com/microsoft/terminal.git

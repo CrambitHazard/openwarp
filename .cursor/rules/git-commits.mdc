@@ -1,0 +1,8 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+
+
+commit and push to github consistently. create proper gitignore file so no sensitive or bulky files get committed. also, make sure to properly commit every minor an dmajor change, and for new features create new branches.
